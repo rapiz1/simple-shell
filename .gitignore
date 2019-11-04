@@ -1,0 +1,5 @@
+.vscode
+in
+*.sh
+*.bk
+build
